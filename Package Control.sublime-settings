@@ -5,17 +5,19 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
-		"AdvancedNewFile",
 		"All Autocomplete",
-		"Babel",
+		"Color Highlight",
 		"Emmet",
+		"Emmet Css Snippets",
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
+		"JSON Reindent",
 		"Package Control",
 		"SCSS",
+		"Solarized Color Scheme",
 		"SublimeLinter",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-rubocop",
+		"TailwindCSSAutocomplete"
 	]
 }
